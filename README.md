@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Vineet Patil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning basics of Programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Technology amd Devlopment 
+- 🌱 I’m currently learning Data structure and Data base management 
+- 💞️ I’m looking to collaborate on Web devlopment projects
+- 📫 How to reach me,
+     You can reach me by E-Mail vineet.patil2809@gmail.com
+     I'm also available on LinkedIn
 
 <!---
 vineetpatil28/vineetpatil28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
